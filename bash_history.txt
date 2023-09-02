@@ -1,0 +1,32 @@
+git
+git init
+mkdir sitebasico
+cd sitebasico
+code .
+cd sitebasico/
+
+git
+git init
+ls -lart
+cd sitebasico/
+ls -lart
+cd ..
+eixt
+exit
+cd sitebasico/
+ls -lart
+git init
+git status
+git log
+ls -lart
+ls -lart
+ls -la
+git add README.md 
+git status
+git status
+git status
+git add .
+git status
+git commit -m "Teste de Read me"
+git push -u origin main
+exit
